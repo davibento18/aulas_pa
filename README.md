@@ -15,3 +15,5 @@ exercicio média de notas: https://scratch.mit.edu/projects/663828157/
 # exemplo 04-scratch:https://scratch.mit.edu/projects/671461782/
 
 # exemplo 05-scratch:https://scratch.mit.edu/projects/671473562/
+
+# jogo do scrath: https://scratch.mit.edu/projects/674900089 

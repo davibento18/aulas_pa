@@ -1,0 +1,14 @@
+Algoritmo calcular valor total das peça
+  entre com o valor da peça
+  entre com  o quantidade das peças
+  faça o valor total (vt)=(valor*qtde)
+  mostre valor total
+  
+fim do algoritmo
+
+
+	teste de mesa
+valor	qtde	vt
+4       6	24
+2	8	16
+  

@@ -1,0 +1,12 @@
+Algoritmo Calculamedia
+  entre com um valor para p1
+  entre com um valor para p2
+  faça a media=(p1+p2)/2
+  mostre MEDIA
+FimAlgoritmo
+
+Teste de Mesa
+
+p1      p2      MEDIA
+6       8       7
+5       7       6

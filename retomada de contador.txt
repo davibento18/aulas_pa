@@ -1,0 +1,36 @@
+contador:inteiro 
+inicio
+para contador de 1 ate 200 faca
+//indentação
+escreval(contador)
+fimpara
+
+
+
+
+somar somente numeros impares de 1 a 200:
+ var
+numero:inteiro
+
+inicio
+
+esceval("digite um numero")
+leia(numero)
+
+se numero mod 2 <> 0 entao
+escreval("é impar")
+senao
+escreval("é par")
+fimse
+
+numero de 1 a 200 somente impares
+var :contador,soma:inteiro
+
+para  contador de 1 ate 200 faca 
+//identacão
+se contador mod 2 <> 0 entao
+escreval(contador)
+soma <- soma + contador
+fimse
+fimpara
+escreval("a soma de todos os impares é: ",soma)

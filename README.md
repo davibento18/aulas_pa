@@ -1,6 +1,6 @@
 # aulas_pa
 repositorio para aulas de programação e algoritmos
-exercicios scrath
+exercicios scratch
 
 exercicio alfandega: https://scratch.mit.edu/projects/663804301/
 
